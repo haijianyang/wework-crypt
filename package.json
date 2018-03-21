@@ -1,0 +1,29 @@
+{
+  "name": "wework-crypt",
+  "version": "1.0.0",
+  "description": "wework message crypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "lint": "eslint --ext .js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haijianyang/wework-crypt.git"
+  },
+  "author": "haijianyang<weber.yhj@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haijianyang/wework-crypt/issues"
+  },
+  "homepage": "https://github.com/haijianyang/wework-crypt#readme",
+  "devDependencies": {
+    "ava": "^1.0.0-beta.3",
+    "eslint": "^4.19.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  },
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
