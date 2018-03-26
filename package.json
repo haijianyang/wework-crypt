@@ -1,7 +1,7 @@
 {
   "name": "wework-crypt",
-  "version": "1.0.0",
-  "description": "wework message crypt",
+  "version": "1.0.1",
+  "description": "wework wxwork crypt",
   "main": "index.js",
   "scripts": {
     "test": "ava",
